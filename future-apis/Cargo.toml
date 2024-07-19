@@ -1,0 +1,7 @@
+[package]
+name = "future-apis"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+bevy = { git = "https://github.com/bevyengine/bevy", rev = "e5bf59d" }
